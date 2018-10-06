@@ -1,0 +1,11 @@
+.navbar-brand img {
+   width: 90px;
+   height: 50px; 
+}
+/* HERO IMG */
+header {
+    background-image: url(../hero/hero-bg.png);
+}
+.jumbotron {
+    background-color: transparent;
+}
